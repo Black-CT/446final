@@ -3,7 +3,7 @@ Then preprocess the data with pre_processing_whole.py file to get drug_data/file
 
 regression tasks has 3 main function and 3 corresponding model files
 classification tasks has 3 main function and 3 corresponding model files.
-And we have a specific logic to control the GAT and GCN dual modality model. So we have total 7 main function and 7 model.
+And we have 2 specific logic to control the GAT and GCN dual modality model and GCN model. So we have total 8 main function and 7 model.
 
 Then run the code
 Step 1.
